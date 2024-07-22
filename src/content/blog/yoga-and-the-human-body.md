@@ -3,8 +3,8 @@ draft: false
 title: "Yoga and the Human Body"
 snippet: "Mind, body and consciousness floats in different directions of space in a normal human being. People in their entire life wants to reconnect those fundamental qualities and work for the self."
 image: {
-    src: "https://images.unsplash.com/photo-1627163439134-7a8c47e08208?&fit=crop&w=430&h=240",
-    alt: "data structures & algorithms"
+    src: "/images/yoga.jpeg",
+    alt: "yoga"
 }
 publishDate: "2022-11-09 16:39"
 category: "Health"

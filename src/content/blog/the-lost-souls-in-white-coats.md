@@ -3,8 +3,8 @@ draft: false
 title: "The Lost Souls in White Coats: A Cry for Compassion"
 snippet: "In the dimly lit corridors of our nation’s hospitals, the heartbeat of a nation seems to fade away. Our healing sanctuaries, once a ray of hope, have become the echo of despair and pain; The Pain of serving others, and the despair of own security."
 image: {
-    src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
-    alt: "full stack web development"
+    src: "/images/lost-compassion.jpeg",
+    alt: "doctors"
 }
 publishDate: "2024-04-08 11:39"
 category: "My Story"
